@@ -1,2 +1,2 @@
 # google-docs-server
-server of our google-docs clone
+Server of our google-docs clone
